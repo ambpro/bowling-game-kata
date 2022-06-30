@@ -1,6 +1,6 @@
-##Bowling game Kata
+## Bowling game Kata
 
-###Règles du bowling
+### Règles du bowling
 
 - Le jeu se déroule en 10 tours.
 - A chaque tour, le joueur a 2 lancers pour faire tomber 10 quilles
